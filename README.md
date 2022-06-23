@@ -1,6 +1,16 @@
 # Learning pyspark
 
-Documenting my learnings of spark/pyspark as i learn them.
+Documenting my learnings of pyspark as I learn them.
+
+This repository aims to enable data scientists and machine learning engineer to get up to speed with pyspark.
+
+### Features include:
+
+✅ Zero Setup with colab\
+✅ Step by step tutorials\
+✅ Increasing difficulty of tutorials\
+✅ Covers tabular,NLP and recommendation problems
+
 
 Since I am new to spark/pyspark please submit a pull request or create an issue if you spot any error.
 
