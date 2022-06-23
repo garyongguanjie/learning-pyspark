@@ -2,7 +2,7 @@
 
 Documenting my learnings of pyspark as I learn them.
 
-This repository aims to enable data scientists and machine learning engineer to get up to speed with pyspark.
+This repository aims to enable data scientists and machine learning engineers to get up to speed with pyspark.
 
 ### Features include:
 
