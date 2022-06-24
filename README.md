@@ -34,6 +34,8 @@ How to use spark for simple tabular dataset on the classic titanic problem.
 
 ## Basic NLP example
 
+Using spark for simple nlp at scale.
+
 TODO
 
 ## Movie recommendation example
