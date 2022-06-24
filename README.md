@@ -4,8 +4,6 @@ Documenting my learnings of pyspark as I learn them.
 
 This repository aims to enable data scientists and machine learning engineers to get up to speed with pyspark.
 
-### Features include:
-
 ✅ Zero Setup with colab\
 ✅ Step by step tutorials\
 ✅ Increasing difficulty of tutorials\
@@ -30,7 +28,9 @@ This is a direct copy from the pyspark quickstart guide for convenience.
 
 ## Titanic Example
 
-TODO
+How to use spark for simple tabular dataset on the classic titanic problem.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/garyongguanjie/learning-pyspark/blob/master/titanic-example.ipynb)
 
 ## Basic NLP example
 
