@@ -37,9 +37,9 @@ How to use spark for simple tabular dataset on the classic titanic problem.
 
 ## Basic NLP example
 
-Using spark for simple nlp at scale.
+How to use spark for simple NLP problems.
 
-TODO
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/garyongguanjie/learning-pyspark/blob/master/imdb-nlp-example.ipynb)
 
 ## Movie recommendation example
 
