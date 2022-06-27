@@ -20,11 +20,14 @@ This notebook goes through the hello world for big data applications using both 
 
 ## Pyspark Basic API walkthrough
 
-https://spark.apache.org/docs/3.1.1/api/python/getting_started/quickstart.html
+This is the the quick start for pyspark dataframe api.
 
-This is a direct copy from the pyspark quickstart guide for convenience.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/garyongguanjie/learning-pyspark/blob/master/quickstart_df.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/garyongguanjie/learning-pyspark/blob/master/quickstart.ipynb)
+
+This is the quick start for the pyspark pandas api. This api tries to support most features in the pandas dataframe api to make it easy to use for data scientist who are familiar with pandas.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/garyongguanjie/learning-pyspark/blob/master/quickstart_ps.ipynb)
 
 ## Titanic Example
 
