@@ -29,6 +29,16 @@ This is the quick start for the pyspark pandas api. This api tries to support mo
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/garyongguanjie/learning-pyspark/blob/master/quickstart_ps.ipynb)
 
+## Different APIs for ML modelling in documentation
+
+There are two APIs for ML in pyspark namely one api for RDD and another api for DataFrame api. 
+
+Googling something like `pyspark svm` might give an API for the wrong type of data.
+
+pyspark.**ml** -> DataFrame API
+
+pyspark.**mllib** -> RDD API
+
 ## Titanic Example
 
 How to use spark for simple tabular dataset on the classic titanic problem.
