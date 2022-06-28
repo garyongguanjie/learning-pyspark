@@ -53,4 +53,6 @@ How to use spark for simple NLP problems.
 
 ## Movie recommendation example
 
-TODO
+Pyspark for collaborative filtering using movie lens dataset.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/garyongguanjie/learning-pyspark/blob/master/movie-recommendation-example.ipynb)
